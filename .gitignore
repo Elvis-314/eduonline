@@ -1,0 +1,24 @@
+# IDE
+.idea
+
+# running
+running/cdn
+running/handle/*.pid
+running/supervisor/*.conf
+logs/*.log
+logs/*.log.*
+
+# CI/CD
+.coverage
+
+# Python
+venv*
+__pycache__
+*.pyc
+
+# Django
+db.sqlite3
+*.db
+penetrator/penetrator/settings/settings.py
+# celery beat file
+celerybeat*
