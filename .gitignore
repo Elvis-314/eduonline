@@ -2,7 +2,7 @@
 .idea
 
 # Mac os
-.DS_Store
+*.DS_Store
 
 # running
 running/cdn
